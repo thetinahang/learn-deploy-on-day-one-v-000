@@ -4908,6 +4908,15 @@ a:visited {
     background-image: url("https://raw.githubusercontent.com/WilliamBarela/profile-pics/master/wb-learn-headshot-sm.jpg");
 }
 
+#tina-hang-cover {
+  background-image: url("http://imgur.com/dD7Y7A9");
+}
+
+#tina-hang-card {
+  background-image: url("http://imgur.com/sT8d0u1");
+}
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
